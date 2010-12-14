@@ -1,0 +1,12 @@
+<Modules>
+  <Module PersistentId="8F3112FE-5CD8-4FBE-8132-F820F778B7E5" ModuleId="Factory Pattern Sample" />
+  <Module PersistentId="0DA011B3-8645-4430-BD9D-67059ED1C8BE" ModuleId="Samples.Interfaces" />
+  <Module PersistentId="75267D63-3A09-4653-8744-7FE381A94987" ModuleId="Samples.Implementation" />
+  <Module PersistentId="460FB2AF-C1E4-40F8-BD78-6E4B6458BEE5" ModuleId="Service Locator Sample_1" />
+  <Module PersistentId="d:Miscellaneous Files" ModuleId="StructureMapAdapter" />
+  <Module PersistentId="F271BEBF-7EEC-4859-9424-72D114EC84F2" ModuleId="3 Contructor Injection Sample" />
+  <Module PersistentId="C8879A49-3FE4-45B3-B1A7-9197C98C6E66" ModuleId="4 Setter Injection Sample" />
+  <Module PersistentId="1540FD92-675E-429D-AEFE-D078D3DEE94C" ModuleId="Interface Injection Sample" />
+  <Module PersistentId="D3764621-7410-4083-9680-25E41DBF8F34" ModuleId="Contextual Lookup Sample" />
+  <Module PersistentId="37D7B497-D210-4E9E-8816-2AE21F3E18AD" ModuleId="ClassLibrary1" />
+</Modules>

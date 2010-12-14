@@ -1,0 +1,18 @@
+C:\Projects\Inversion Of Control samples\Setter Injection Sample\bin\Debug\Setter Injection Sample.exe
+C:\Projects\Inversion Of Control samples\Setter Injection Sample\bin\Debug\Setter Injection Sample.pdb
+C:\Projects\Inversion Of Control samples\Setter Injection Sample\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Projects\Inversion Of Control samples\Setter Injection Sample\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+C:\Projects\Inversion Of Control samples\Setter Injection Sample\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Projects\Inversion Of Control samples\Setter Injection Sample\bin\Debug\Microsoft.Practices.Unity.Interception.Configuration.dll
+C:\Projects\Inversion Of Control samples\Setter Injection Sample\bin\Debug\Microsoft.Practices.Unity.Interception.dll
+C:\Projects\Inversion Of Control samples\Setter Injection Sample\bin\Debug\Samples.Implementation.dll
+C:\Projects\Inversion Of Control samples\Setter Injection Sample\bin\Debug\Samples.Interfaces.dll
+C:\Projects\Inversion Of Control samples\Setter Injection Sample\bin\Debug\Samples.Implementation.pdb
+C:\Projects\Inversion Of Control samples\Setter Injection Sample\bin\Debug\Samples.Interfaces.pdb
+C:\Projects\Inversion Of Control samples\Setter Injection Sample\bin\Debug\Microsoft.Practices.Unity.xml
+C:\Projects\Inversion Of Control samples\Setter Injection Sample\bin\Debug\Microsoft.Practices.Unity.Configuration.xml
+C:\Projects\Inversion Of Control samples\Setter Injection Sample\bin\Debug\Microsoft.Practices.Unity.Interception.xml
+C:\Projects\Inversion Of Control samples\Setter Injection Sample\bin\Debug\Microsoft.Practices.Unity.Interception.Configuration.xml
+C:\Projects\Inversion Of Control samples\Setter Injection Sample\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Projects\Inversion Of Control samples\Setter Injection Sample\obj\x86\Debug\Setter Injection Sample.exe
+C:\Projects\Inversion Of Control samples\Setter Injection Sample\obj\x86\Debug\Setter Injection Sample.pdb

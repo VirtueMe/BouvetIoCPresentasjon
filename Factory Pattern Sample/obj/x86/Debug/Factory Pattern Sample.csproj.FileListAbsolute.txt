@@ -1,0 +1,12 @@
+c:\Projects\Inversion Of Control samples\Factory Pattern Sample\bin\Debug\Factory Pattern Sample.exe.config
+c:\Projects\Inversion Of Control samples\Factory Pattern Sample\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\Projects\Inversion Of Control samples\Factory Pattern Sample\bin\Debug\Factory Pattern Sample.exe
+c:\Projects\Inversion Of Control samples\Factory Pattern Sample\bin\Debug\Factory Pattern Sample.pdb
+c:\Projects\Inversion Of Control samples\Factory Pattern Sample\bin\Debug\Autofac.dll
+c:\Projects\Inversion Of Control samples\Factory Pattern Sample\bin\Debug\Samples.Implementation.dll
+c:\Projects\Inversion Of Control samples\Factory Pattern Sample\bin\Debug\Samples.Interfaces.dll
+c:\Projects\Inversion Of Control samples\Factory Pattern Sample\bin\Debug\Samples.Implementation.pdb
+c:\Projects\Inversion Of Control samples\Factory Pattern Sample\bin\Debug\Samples.Interfaces.pdb
+c:\Projects\Inversion Of Control samples\Factory Pattern Sample\bin\Debug\Autofac.xml
+c:\Projects\Inversion Of Control samples\Factory Pattern Sample\obj\x86\Debug\Factory Pattern Sample.exe
+c:\Projects\Inversion Of Control samples\Factory Pattern Sample\obj\x86\Debug\Factory Pattern Sample.pdb

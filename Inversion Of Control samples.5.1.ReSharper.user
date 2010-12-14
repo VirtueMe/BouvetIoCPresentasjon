@@ -1,0 +1,252 @@
+<Configuration>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="Default">
+      <Item value="var" priority="14" />
+      <Item value="new" priority="13" />
+      <Item value="ContainerBuilder`0" priority="0" />
+      <Item value="builder" priority="2" />
+      <Item value="public" priority="6" />
+      <Item value="string" priority="1" />
+      <Item value="override" priority="0" />
+      <Item value="Number" priority="3" />
+      <Item value="Name" priority="3" />
+      <Item value="yield return" priority="2" />
+      <Item value="Customer" priority="1" />
+      <Item value="Customer`0" priority="5" />
+      <Item value="return" priority="3" />
+      <Item value="void" priority="2" />
+      <Item value="Func" priority="0" />
+      <Item value="ICustomerService`0" priority="4" />
+      <Item value="customerServiceFactory" priority="0" />
+      <Item value="customerService" priority="2" />
+      <Item value="list" priority="3" />
+      <Item value="Console`0" priority="2" />
+      <Item value="container" priority="15" />
+      <Item value="CustomerController`0" priority="13" />
+      <Item value="typeof" priority="1" />
+      <Item value="using" priority="0" />
+      <Item value="Autofac" priority="0" />
+      <Item value="controller" priority="6" />
+      <Item value="IServiceProvider`0" priority="0" />
+      <Item value="Service_Locator_Sample" priority="0" />
+      <Item value="service" priority="0" />
+      <Item value="UnityContainer`0" priority="0" />
+      <Item value="CustomerService`0" priority="0" />
+      <Item value="DefaultKernel`0" priority="0" />
+      <Item value="Components`0" priority="0" />
+      <Item value="FromAssembly`0" priority="0" />
+      <Item value="BootStrap`0" priority="0" />
+      <Item value="Component`0" priority="1" />
+      <Item value="InjectedMembers`0" priority="1" />
+      <Item value="Injection" priority="0" />
+      <Item value="Sample" priority="0" />
+      <Item value="InjectionMember" priority="1" />
+      <Item value="InjectionProperty`0" priority="1" />
+      <Item value="InjectionMember`0" priority="0" />
+      <Item value="StandardKernel`0" priority="0" />
+      <Item value="Bind`0" priority="1" />
+      <Item value="StructureMap" priority="0" />
+      <Item value="Container`0" priority="0" />
+      <Item value="CustomerRegistry`0" priority="0" />
+      <Item value="For`0" priority="2" />
+      <Item value="for" priority="0" />
+      <Item value="i" priority="1" />
+      <Item value="AccessViolationException`0" priority="0" />
+      <Item value="s" priority="1" />
+      <Item value="c" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Autofac.ContainerBuilder">
+      <Item value="Register`1" priority="0" />
+      <Item value="RegisterType`0" priority="0" />
+      <Item value="Build`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Samples.Interfaces.ICustomerService">
+      <Item value="List`0" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.IEnumerable`1">
+      <Item value="GetEnumerator`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.List`1">
+      <Item value="ForEach`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Console">
+      <Item value="WriteLine`0" priority="0" />
+      <Item value="ReadLine`0" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Autofac.IContainer">
+      <Item value="Resolve`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Autofac.Builder.IRegistrationBuilder`3">
+      <Item value="As`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Factory.Pattern.Sample.CustomerController">
+      <Item value="Index`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@Microsoft.Practices.ServiceLocation.ServiceLocator">
+      <Item value="SetLocatorProvider`0" priority="1" />
+      <Item value="Current" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Microsoft.Practices.ServiceLocation.IServiceLocator">
+      <Item value="GetInstance`1" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Service_Locator_Sample.CustomerController">
+      <Item value="Index`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Microsoft.Practices.Unity.UnityContainer">
+      <Item value="RegisterType`0" priority="3" />
+      <Item value="Configure`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Microsoft.Practices.Unity.IUnityContainer">
+      <Item value="BuildUp`0" priority="1" />
+      <Item value="Resolve`0" priority="0" />
+      <Item value="Configure`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Constructur_Injection_Sample.CustomerController">
+      <Item value="Index`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Castle.MicroKernel.DefaultKernel">
+      <Item value="Register`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Castle.Windsor.WindsorContainer">
+      <Item value="Install`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@Castle.Windsor.Installer.FromAssembly">
+      <Item value="Containing`1" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@Contructor.Injection.Sample.BootStrap">
+      <Item value="Components`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Castle.Windsor.IWindsorContainer">
+      <Item value="Resolve`0" priority="0" />
+      <Item value="Register`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Contructor.Injection.Sample.CustomerController">
+      <Item value="Index`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@Castle.MicroKernel.Registration.Component">
+      <Item value="For`5" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Castle.MicroKernel.Registration.ComponentRegistration`1">
+      <Item value="LifeStyle" priority="1" />
+      <Item value="ImplementedBy`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Castle.MicroKernel.Registration.Lifestyle.LifestyleGroup`1">
+      <Item value="Transient" priority="0" />
+      <Item value="Singleton" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Setter.Injection.Sample.CustomerController">
+      <Item value="CustomerService" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:TConfigurator">
+      <Item value="Container" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Ninject.Syntax.IBindingToSyntax`1">
+      <Item value="To`0" priority="0" />
+      <Item value="ToSelf`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Ninject.IKernel">
+      <Item value="Resolve`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:StructureMap.Configuration.DSL.Expressions.CreatePluginFamilyExpression`1">
+      <Item value="Add`0" priority="4" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:StructureMap.Pipeline.SmartInstance`1">
+      <Item value="Named`0" priority="2" />
+      <Item value="OnCreation`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Int32">
+      <Item value="ToString`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:StructureMap.IContainer">
+      <Item value="GetInstance`1" priority="0" />
+      <Item value="BuildUp`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Contextual.Lookup.Sample.CustomerController">
+      <Item value="Index`0" priority="0" />
+      <Item value="CustomerService" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:StructureMap.IContext">
+      <Item value="GetInstance`1" priority="0" />
+      <Item value="RequestedName" priority="0" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="75267D63-3A09-4653-8744-7FE381A94987/f:Customer.cs" caret="66" fromTop="2" />
+      <File id="0DA011B3-8645-4430-BD9D-67059ED1C8BE/f:ICustomer.cs" caret="0" fromTop="0" />
+      <File id="0DA011B3-8645-4430-BD9D-67059ED1C8BE/f:ICustomerService.cs" caret="167" fromTop="8" />
+      <File id="F271BEBF-7EEC-4859-9424-72D114EC84F2/f:CustomerController.cs" caret="83" fromTop="3" />
+      <File id="C8879A49-3FE4-45B3-B1A7-9197C98C6E66/f:packages.config" caret="0" fromTop="0" />
+      <File id="C8879A49-3FE4-45B3-B1A7-9197C98C6E66/f:Program.cs" caret="302" fromTop="14" />
+      <File id="D3764621-7410-4083-9680-25E41DBF8F34/f:CustomerController.cs" caret="180" fromTop="7" />
+      <File id="75267D63-3A09-4653-8744-7FE381A94987/f:CustomerService.cs" caret="0" fromTop="0" />
+      <File id="8F3112FE-5CD8-4FBE-8132-F820F778B7E5/f:CustomerController.cs" caret="562" fromTop="12" />
+      <File id="8F3112FE-5CD8-4FBE-8132-F820F778B7E5/f:Bootstrap.cs" caret="0" fromTop="0" />
+      <File id="8F3112FE-5CD8-4FBE-8132-F820F778B7E5/f:Program.cs" caret="104" fromTop="0" />
+      <File id="460FB2AF-C1E4-40F8-BD78-6E4B6458BEE5/f:Program.cs" caret="0" fromTop="0" />
+      <File id="460FB2AF-C1E4-40F8-BD78-6E4B6458BEE5/f:CustomerController.cs" caret="276" fromTop="6" />
+      <File id="460FB2AF-C1E4-40F8-BD78-6E4B6458BEE5/f:Bootstrap.cs" caret="0" fromTop="0" />
+      <File id="F271BEBF-7EEC-4859-9424-72D114EC84F2/f:BootStrap.cs" caret="0" fromTop="0" />
+      <File id="F271BEBF-7EEC-4859-9424-72D114EC84F2/f:CustomerServiceInstaller.cs" caret="0" fromTop="0" />
+      <File id="F271BEBF-7EEC-4859-9424-72D114EC84F2/f:Program.cs" caret="0" fromTop="0" />
+      <File id="C8879A49-3FE4-45B3-B1A7-9197C98C6E66/f:BootStrap.cs" caret="0" fromTop="0" />
+      <File id="C8879A49-3FE4-45B3-B1A7-9197C98C6E66/f:CustomerController.cs" caret="0" fromTop="0" />
+      <File id="1540FD92-675E-429D-AEFE-D078D3DEE94C/f:Bootstrap.cs" caret="0" fromTop="0" />
+      <File id="1540FD92-675E-429D-AEFE-D078D3DEE94C/f:CustomerModule.cs" caret="0" fromTop="0" />
+      <File id="1540FD92-675E-429D-AEFE-D078D3DEE94C/f:CustomerController.cs" caret="362" fromTop="12" />
+      <File id="1540FD92-675E-429D-AEFE-D078D3DEE94C/f:Program.cs" caret="0" fromTop="0" />
+      <File id="D3764621-7410-4083-9680-25E41DBF8F34/f:CustomerRegistry.cs" caret="647" fromTop="14" />
+      <File id="D3764621-7410-4083-9680-25E41DBF8F34/f:Program.cs" caret="270" fromTop="10" />
+      <File id="D3764621-7410-4083-9680-25E41DBF8F34/f:packages.config" caret="0" fromTop="0" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="8F3112FE-5CD8-4FBE-8132-F820F778B7E5/f:Program.cs" caret="372" fromTop="22" />
+      <File id="8F3112FE-5CD8-4FBE-8132-F820F778B7E5/f:Program.cs" caret="372" fromTop="0" />
+      <File id="8F3112FE-5CD8-4FBE-8132-F820F778B7E5/f:Bootstrap.cs" caret="453" fromTop="17" />
+      <File id="8F3112FE-5CD8-4FBE-8132-F820F778B7E5/f:Program.cs" caret="352" fromTop="15" />
+      <File id="8F3112FE-5CD8-4FBE-8132-F820F778B7E5/f:Program.cs" caret="78" fromTop="5" />
+      <File id="460FB2AF-C1E4-40F8-BD78-6E4B6458BEE5/f:CustomerController.cs" caret="289" fromTop="13" />
+      <File id="F271BEBF-7EEC-4859-9424-72D114EC84F2/f:BootStrap.cs" caret="407" fromTop="25" />
+      <File id="F271BEBF-7EEC-4859-9424-72D114EC84F2/f:BootStrap.cs" caret="303" fromTop="12" />
+      <File id="F271BEBF-7EEC-4859-9424-72D114EC84F2/f:BootStrap.cs" caret="407" fromTop="14" />
+      <File id="C8879A49-3FE4-45B3-B1A7-9197C98C6E66/f:CustomerController.cs" caret="292" fromTop="13" />
+      <File id="C8879A49-3FE4-45B3-B1A7-9197C98C6E66/f:BootStrap.cs" caret="468" fromTop="15" />
+      <File id="C8879A49-3FE4-45B3-B1A7-9197C98C6E66/f:CustomerController.cs" caret="179" fromTop="10" />
+      <File id="C8879A49-3FE4-45B3-B1A7-9197C98C6E66/f:BootStrap.cs" caret="380" fromTop="13" />
+      <File id="C8879A49-3FE4-45B3-B1A7-9197C98C6E66/f:Program.cs" caret="334" fromTop="15" />
+      <File id="1540FD92-675E-429D-AEFE-D078D3DEE94C/f:CustomerModule.cs" caret="351" fromTop="12" />
+      <File id="1540FD92-675E-429D-AEFE-D078D3DEE94C/f:CustomerController.cs" caret="172" fromTop="10" />
+      <File id="C8879A49-3FE4-45B3-B1A7-9197C98C6E66/f:CustomerController.cs" caret="144" fromTop="7" />
+      <File id="D3764621-7410-4083-9680-25E41DBF8F34/f:CustomerController.cs" caret="33" fromTop="0" />
+      <File id="D3764621-7410-4083-9680-25E41DBF8F34/f:Program.cs" caret="363" fromTop="18" />
+      <File id="D3764621-7410-4083-9680-25E41DBF8F34/f:Program.cs" caret="363" fromTop="23" />
+      <File id="D3764621-7410-4083-9680-25E41DBF8F34/f:Program.cs" caret="366" fromTop="13" />
+      <File id="D3764621-7410-4083-9680-25E41DBF8F34/f:Program.cs" caret="363" fromTop="13" />
+      <File id="D3764621-7410-4083-9680-25E41DBF8F34/f:Program.cs" caret="343" fromTop="14" />
+      <File id="D3764621-7410-4083-9680-25E41DBF8F34/f:Program.cs" caret="56" fromTop="1" />
+      <File id="D3764621-7410-4083-9680-25E41DBF8F34/f:Program.cs" caret="363" fromTop="11" />
+      <File id="D3764621-7410-4083-9680-25E41DBF8F34/f:Program.cs" caret="363" fromTop="17" />
+      <File id="D3764621-7410-4083-9680-25E41DBF8F34/f:CustomerController.cs" caret="416" fromTop="13" />
+      <File id="D3764621-7410-4083-9680-25E41DBF8F34/f:CustomerController.cs" caret="174" fromTop="0" />
+      <File id="D3764621-7410-4083-9680-25E41DBF8F34/f:Program.cs" caret="363" fromTop="13" />
+      <File id="D3764621-7410-4083-9680-25E41DBF8F34/f:Program.cs" caret="270" fromTop="10" />
+    </RecentEdits>
+  </RecentFiles>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir>C:\Program Files (x86)\NUnit 2.5.7\bin\net-2.0\</NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+</Configuration>

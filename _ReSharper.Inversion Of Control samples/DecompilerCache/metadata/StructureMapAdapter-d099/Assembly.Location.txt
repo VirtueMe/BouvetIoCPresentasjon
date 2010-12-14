@@ -1,0 +1,1 @@
+c:\Projects\Inversion Of Control samples\packages\CommonServiceLocator.StructureMapAdapter.1.1\lib\StructureMapAdapter.dll

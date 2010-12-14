@@ -1,0 +1,13 @@
+C:\Projects\Inversion Of Control samples\Contructor Injection Sample\bin\Debug\Contructor Injection Sample.exe
+C:\Projects\Inversion Of Control samples\Contructor Injection Sample\bin\Debug\Contructor Injection Sample.pdb
+C:\Projects\Inversion Of Control samples\Contructor Injection Sample\bin\Debug\Castle.Core.dll
+C:\Projects\Inversion Of Control samples\Contructor Injection Sample\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Projects\Inversion Of Control samples\Contructor Injection Sample\obj\x86\Debug\Contructor Injection Sample.exe
+C:\Projects\Inversion Of Control samples\Contructor Injection Sample\obj\x86\Debug\Contructor Injection Sample.pdb
+C:\Projects\Inversion Of Control samples\Contructor Injection Sample\bin\Debug\Contructor Injection Sample.exe.config
+C:\Projects\Inversion Of Control samples\Contructor Injection Sample\bin\Debug\Castle.Facilities.Synchronize.dll
+C:\Projects\Inversion Of Control samples\Contructor Injection Sample\bin\Debug\Castle.Windsor.dll
+C:\Projects\Inversion Of Control samples\Contructor Injection Sample\bin\Debug\Samples.Implementation.dll
+C:\Projects\Inversion Of Control samples\Contructor Injection Sample\bin\Debug\Samples.Interfaces.dll
+C:\Projects\Inversion Of Control samples\Contructor Injection Sample\bin\Debug\Samples.Implementation.pdb
+C:\Projects\Inversion Of Control samples\Contructor Injection Sample\bin\Debug\Samples.Interfaces.pdb

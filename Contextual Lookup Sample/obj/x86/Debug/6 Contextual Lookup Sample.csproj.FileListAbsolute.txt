@@ -1,0 +1,12 @@
+c:\Projects\Inversion Of Control samples\Contextual Lookup Sample\bin\Debug\Contextual Lookup Sample.exe.config
+c:\Projects\Inversion Of Control samples\Contextual Lookup Sample\bin\Debug\Contextual Lookup Sample.exe
+c:\Projects\Inversion Of Control samples\Contextual Lookup Sample\bin\Debug\Contextual Lookup Sample.pdb
+c:\Projects\Inversion Of Control samples\Contextual Lookup Sample\bin\Debug\Samples.Implementation.dll
+c:\Projects\Inversion Of Control samples\Contextual Lookup Sample\bin\Debug\Samples.Interfaces.dll
+c:\Projects\Inversion Of Control samples\Contextual Lookup Sample\bin\Debug\StructureMap.dll
+c:\Projects\Inversion Of Control samples\Contextual Lookup Sample\bin\Debug\Samples.Implementation.pdb
+c:\Projects\Inversion Of Control samples\Contextual Lookup Sample\bin\Debug\Samples.Interfaces.pdb
+c:\Projects\Inversion Of Control samples\Contextual Lookup Sample\bin\Debug\StructureMap.xml
+c:\Projects\Inversion Of Control samples\Contextual Lookup Sample\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\Projects\Inversion Of Control samples\Contextual Lookup Sample\obj\x86\Debug\Contextual Lookup Sample.exe
+c:\Projects\Inversion Of Control samples\Contextual Lookup Sample\obj\x86\Debug\Contextual Lookup Sample.pdb

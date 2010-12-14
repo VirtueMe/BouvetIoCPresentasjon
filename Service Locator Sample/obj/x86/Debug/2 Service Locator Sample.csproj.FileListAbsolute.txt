@@ -1,0 +1,16 @@
+c:\Projects\Inversion Of Control samples\Service Locator Sample\bin\Debug\Service Locator Sample.exe.config
+c:\Projects\Inversion Of Control samples\Service Locator Sample\bin\Debug\Service Locator Sample.exe
+c:\Projects\Inversion Of Control samples\Service Locator Sample\bin\Debug\Service Locator Sample.pdb
+c:\Projects\Inversion Of Control samples\Service Locator Sample\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+c:\Projects\Inversion Of Control samples\Service Locator Sample\bin\Debug\Samples.Implementation.dll
+c:\Projects\Inversion Of Control samples\Service Locator Sample\bin\Debug\Samples.Interfaces.dll
+c:\Projects\Inversion Of Control samples\Service Locator Sample\bin\Debug\StructureMap.dll
+c:\Projects\Inversion Of Control samples\Service Locator Sample\bin\Debug\StructureMapAdapter.dll
+c:\Projects\Inversion Of Control samples\Service Locator Sample\bin\Debug\Samples.Implementation.pdb
+c:\Projects\Inversion Of Control samples\Service Locator Sample\bin\Debug\Samples.Interfaces.pdb
+c:\Projects\Inversion Of Control samples\Service Locator Sample\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+c:\Projects\Inversion Of Control samples\Service Locator Sample\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+c:\Projects\Inversion Of Control samples\Service Locator Sample\bin\Debug\StructureMap.xml
+c:\Projects\Inversion Of Control samples\Service Locator Sample\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\Projects\Inversion Of Control samples\Service Locator Sample\obj\x86\Debug\Service Locator Sample.exe
+c:\Projects\Inversion Of Control samples\Service Locator Sample\obj\x86\Debug\Service Locator Sample.pdb

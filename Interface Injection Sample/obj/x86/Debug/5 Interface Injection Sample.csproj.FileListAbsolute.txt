@@ -1,0 +1,13 @@
+c:\Projects\Inversion Of Control samples\Interface Injection Sample\bin\Debug\Interface Injection Sample.exe.config
+c:\Projects\Inversion Of Control samples\Interface Injection Sample\bin\Debug\Interface Injection Sample.exe
+c:\Projects\Inversion Of Control samples\Interface Injection Sample\bin\Debug\Interface Injection Sample.pdb
+c:\Projects\Inversion Of Control samples\Interface Injection Sample\bin\Debug\Ninject.dll
+c:\Projects\Inversion Of Control samples\Interface Injection Sample\bin\Debug\Samples.Implementation.dll
+c:\Projects\Inversion Of Control samples\Interface Injection Sample\bin\Debug\Samples.Interfaces.dll
+c:\Projects\Inversion Of Control samples\Interface Injection Sample\bin\Debug\Samples.Implementation.pdb
+c:\Projects\Inversion Of Control samples\Interface Injection Sample\bin\Debug\Samples.Interfaces.pdb
+c:\Projects\Inversion Of Control samples\Interface Injection Sample\bin\Debug\Ninject.pdb
+c:\Projects\Inversion Of Control samples\Interface Injection Sample\bin\Debug\Ninject.xml
+c:\Projects\Inversion Of Control samples\Interface Injection Sample\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\Projects\Inversion Of Control samples\Interface Injection Sample\obj\x86\Debug\Interface Injection Sample.exe
+c:\Projects\Inversion Of Control samples\Interface Injection Sample\obj\x86\Debug\Interface Injection Sample.pdb

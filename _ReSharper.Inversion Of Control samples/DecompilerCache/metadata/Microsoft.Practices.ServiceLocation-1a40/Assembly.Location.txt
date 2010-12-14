@@ -1,0 +1,1 @@
+c:\Projects\Inversion Of Control samples\packages\CommonServiceLocator.1.0\lib\NET35\Microsoft.Practices.ServiceLocation.dll

@@ -1,0 +1,5 @@
+c:\Projects\Inversion Of Control samples\Samples.Interfaces\bin\Debug\Samples.Interfaces.dll
+c:\Projects\Inversion Of Control samples\Samples.Interfaces\bin\Debug\Samples.Interfaces.pdb
+c:\Projects\Inversion Of Control samples\Samples.Interfaces\obj\Debug\ResolveAssemblyReference.cache
+c:\Projects\Inversion Of Control samples\Samples.Interfaces\obj\Debug\Samples.Interfaces.dll
+c:\Projects\Inversion Of Control samples\Samples.Interfaces\obj\Debug\Samples.Interfaces.pdb
